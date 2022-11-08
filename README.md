@@ -18,6 +18,7 @@ Project Title:
 Skill / Job Recommender Application
 
 Team: K G P HA
+
 Industry Mentor(s) Name:Krishna Chaitanya
 
 Faculty Mentor(s) Name:M.SINTHU
